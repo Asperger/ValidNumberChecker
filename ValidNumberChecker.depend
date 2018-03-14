@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521038042 source:c:\users\stkos\onedrive\文件\程式\validnumberchecker\main.cpp
+	<iostream>
+	"Solution.h"
+
+1521038007 c:\users\stkos\onedrive\文件\程式\validnumberchecker\include\solution.h
+	<string>
+
+1521038014 source:c:\users\stkos\onedrive\文件\程式\validnumberchecker\src\solution.cpp
+	"Solution.h"
+
